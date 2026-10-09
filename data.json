@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T06:16:23.065Z",
+  "updatedAt": "2026-10-09T06:52:14.046Z",
   "updatedBy": "علی صنوبری",
   "records": [
     {
@@ -228,6 +228,22 @@
       "sh_ec": "",
       "sh_ph": "",
       "updatedAt": 1791432458859,
+      "deleted": false
+    },
+    {
+      "id": 1791528726916,
+      "type": "sharbat",
+      "date": "۱۴۰۵/۰۷/۱۷",
+      "time": "۱۰:۲۱",
+      "notes": "",
+      "product": "قند محصول",
+      "color": "2.82",
+      "ash": "19",
+      "turbidity": "",
+      "so2": "5.35",
+      "sh_ec": "",
+      "sh_ph": "",
+      "updatedAt": 1791528726916,
       "deleted": false
     }
   ],
